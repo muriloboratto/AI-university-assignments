@@ -1,4 +1,4 @@
-# AI university assignments, and workshops utilizing Intel oneAPI <br/>
+# AI university assignments and workshops utilizing Intel oneAPI <br/>
 
 This repository contains the material corresponding to the webinar/Hands-on: _AI university assignments and workshops utilizing Intel oneAPI_ organized by HPC/CIMATEC. The objectives are:
 
