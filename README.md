@@ -48,10 +48,6 @@ Code samples are licensed under the MIT license. See [License.txt](https://githu
 
 Third-party program licenses can be found here: [third-party-programs.txt](https://github.com/oneapi-src/oneAPI-samples/blob/master/third-party-programs.txt).
 
-### Notices and Disclaimers
-
-© Intel Corporation. Intel, the Intel logo, and other Intel marks are trademarks of Intel Corporation or its subsidiaries. Other names and brands may be claimed as the property of others.
-
 ---
 
 [Murilo Boratto](http://lattes.cnpq.br/9222855062709254) <br/>
