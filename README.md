@@ -2,21 +2,55 @@
 
 This repository contains the material corresponding to the webinar/Hands-on: _AI university assignments and workshops utilizing Intel oneAPI_ organized by HPC/CIMATEC. The objectives are:
 
-By the end of the assignments and workshops, students become aware of the breadth of the Intel AI portfolio and practical experience of the benefits of using Intel AI software and hardware co-optimized solutions. By default, students consider Intel's AI portfolio for future academic and professional AI projects.
+By the end of the assignments and workshops, students become aware of the breadth of the Intel AI portfolio and practical experience of the benefits of using Intel AI software and hardware co-optimized solutions. By default, students consider Intel's AI portfolio for future academic and professional AI projects. The material available in \*.ipynb (Jupyter NoteBook) format. There are some notebooks in this repository divided by topics.
 
-Material available in \*.ipynb (Jupyter NoteBook) format. There are 4 notebooks in this repository divided by topics:
+## Getting Started with Samples
 
-## [01-percepetron-python.ipynb]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The best oneAPI sample to start with depends on what you are trying to learn or types of problems you are trying to solve.
 
-## [02-percepetron-bias.ipynb]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+| If you want to learn about... | Start with...
+|:---                           |:---
+| The basics concepts of using Perceptron Neural Network using Intel® Python  | Node, topology with augmented vectors, training algorithm, and Convergence theorem. Hands-on using Intel Python* and Scikit learn extensions
+| The basics concepts of using Neural Network | Multilayer Perceptron network architecture The Backpropagation algorithm. Hands-on using Intel Python* and PyTorch*
+| Search Algorithms    | Genetic Algorithms, Bayesian classification, Ant Colony Optimization algorithm Optimization exercises using Intel SigOpt 
+| HPC, and  Simulations | Performance Metrics for validating the developed application
 
-## [03-percepetron-training.ipynb]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+>**Note**: The README.md included with each sample provides build instructions for all supported operating system. For samples run in Jupyter Notebooks, you might need to install or configure additional frameworks or package managers if you do not already have them on your system.
 
-## [04-percepetron-scikit-learning.ipynb]
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Repository Structure
+
+The AI-sample repository is organized by high-level categories.
+
+- [Percetron](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics)
+  - [01-percepetron-python](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/End-to-end-Workloads)
+  - [02-percepetron-bias](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/Features-and-Functionality)
+  - [03-percepetron-training](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/Getting-Started-Samples)
+  - [04-percepetron-scikit-learning](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/Jupyter)
+- [Neural Network](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming)
+  - [01-neural-network-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/C++)
+  - [02-neural-network-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/C++SYCL)
+  - [04-neural-network-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/C++SYCL_FPGA)
+  - [05-neural-network-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/Fortran)
+- [Search Algorithms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming)
+  - [01-search-algoritms-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/C++)
+  - [02-search-algoritms-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/C++SYCL)
+  - [03-search-algoritms-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/C++SYCL_FPGA)
+  - [04-search-algoritms-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/Fortran)
+
+---
+
+## Known Issues
+
+### Licenses
+
+Code samples are licensed under the MIT license. See [License.txt](https://github.com/oneapi-src/oneAPI-samples/blob/master/License.txt) for details.
+
+Third-party program licenses can be found here: [third-party-programs.txt](https://github.com/oneapi-src/oneAPI-samples/blob/master/third-party-programs.txt).
+
+### Notices and Disclaimers
+
+© Intel Corporation. Intel, the Intel logo, and other Intel marks are trademarks of Intel Corporation or its subsidiaries. Other names and brands may be claimed as the property of others.
 
 ---
 
