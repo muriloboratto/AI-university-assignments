@@ -1,5 +1,4 @@
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks
-# Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
@@ -7,6 +6,7 @@
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*/.DS_Store/*
 
 # IPython
 profile_default/
