@@ -27,6 +27,7 @@ The AI-sample repository is organized by high-level categories.
   - [02-percepetron-bias](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/Features-and-Functionality)
   - [03-percepetron-training](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/Getting-Started-Samples)
   - [04-percepetron-scikit-learning](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/Jupyter)
+  - [05-percepetron-assessment](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/Jupyter)
 - [Neural Network](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming)
   - [01-neural-network-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/C++)
   - [02-neural-network-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/C++SYCL)
