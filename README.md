@@ -10,10 +10,10 @@ The best oneAPI sample to start with depends on what you are trying to learn or 
 
 | If you want to learn about... | Start with...
 |:---                           |:---
-| The basics concepts of using Perceptron Neural Network using Intel® Python  | Node, topology with augmented vectors, training algorithm, and Convergence theorem. Hands-on using Intel Python* and Scikit learn extensions
-| The basics concepts of using Neural Network | Multilayer Perceptron network architecture The Backpropagation algorithm. Hands-on using Intel Python* and PyTorch*
-| Search Algorithms    | Genetic Algorithms, Bayesian classification, Ant Colony Optimization algorithm Optimization exercises using Intel SigOpt 
-| HPC, and  Simulations | Performance Metrics for validating the developed application
+| The basics concepts of using Perceptron Neural Network using Intel® Python  | Node, topology with augmented vectors, training algorithm, and Convergence theorem. Hands-on using Intel Python* and Scikit learn extensions.
+| The basics concepts of using Neural Network | Multilayer Perceptron network architecture. The Backpropagation algorithm. Hands-on using Intel Python* and PyTorch*.
+| Search Algorithms    | Genetic Algorithms, Bayesian classification, Ant Colony Optimization algorithm Optimization exercises using Intel SigOpt.
+| HPC, and  Simulations | Performance Metrics for validating the developed application.
 
 >**Note**: The README.md included with each sample provides build instructions for all supported operating system. For samples run in Jupyter Notebooks, you might need to install or configure additional frameworks or package managers if you do not already have them on your system.
 
@@ -22,23 +22,22 @@ The best oneAPI sample to start with depends on what you are trying to learn or 
 
 The AI-sample repository is organized by high-level categories.
 
-- [Percetron](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics)
-  - [01-percepetron-python](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/End-to-end-Workloads)
-  - [02-percepetron-bias](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/Features-and-Functionality)
-  - [03-percepetron-training](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/Getting-Started-Samples)
-  - [04-percepetron-scikit-learning](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/Jupyter)
-  - [05-percepetron-assessment](https://github.com/oneapi-src/oneAPI-samples/tree/master/AI-and-Analytics/Jupyter)
-- [Neural Network](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming)
-  - [01-neural-network-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/C++)
-  - [02-neural-network-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/C++SYCL)
-  - [04-neural-network-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/C++SYCL_FPGA)
-  - [05-neural-network-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/Fortran)
-- [Search Algorithms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming)
-  - [01-search-algoritms-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/C++)
-  - [02-search-algoritms-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/C++SYCL)
-  - [03-search-algoritms-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/C++SYCL_FPGA)
-  - [04-search-algoritms-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/Fortran)
-
+- [Percetron]
+  - [01-percepetron-python.ipynb](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/01-percepetron-python.ipynb)
+  - [02-percepetron-bias.ipynb](hhttps://github.com/muriloboratto/AI-intelOneAPI/blob/master/01-percepetron-python.ipynb)
+  - [03-percepetron-training.ipynb](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/01-percepetron-python.ipynb)
+  - [04-percepetron-scikit-learning](hhttps://github.com/muriloboratto/AI-intelOneAPI/blob/master/01-percepetron-python.ipynb)
+  - [05-percepetron-assessment.ipynb](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/01-percepetron-python.ipynb)
+- [Neural Network]()
+  - [01-neural-network-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+  - [02-neural-network-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+  - [04-neural-network-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+  - [05-neural-network-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+- [Search Algorithms]()
+  - [01-search-algoritms-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming)
+  - [02-search-algoritms-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+  - [03-search-algoritms-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+  - [04-search-algoritms-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
 ---
 
 ## Known Issues
@@ -47,7 +46,6 @@ The AI-sample repository is organized by high-level categories.
 
 Code samples are licensed under the MIT license. See [License.txt](https://github.com/oneapi-src/oneAPI-samples/blob/master/License.txt) for details.
 
-Third-party program licenses can be found here: [third-party-programs.txt](https://github.com/oneapi-src/oneAPI-samples/blob/master/third-party-programs.txt).
 
 ---
 
