@@ -24,20 +24,25 @@ The AI-sample repository is organized by high-level categories.
 
 - [Percetron]
   - [01-percepetron-python.ipynb](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/01-percepetron-python.ipynb)
-  - [02-percepetron-bias.ipynb](hhttps://github.com/muriloboratto/AI-intelOneAPI/blob/master/01-percepetron-python.ipynb)
-  - [03-percepetron-training.ipynb](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/01-percepetron-python.ipynb)
-  - [04-percepetron-scikit-learning](hhttps://github.com/muriloboratto/AI-intelOneAPI/blob/master/01-percepetron-python.ipynb)
-  - [05-percepetron-assessment.ipynb](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/01-percepetron-python.ipynb)
-- [Neural Network]()
-  - [01-neural-network-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
-  - [02-neural-network-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
-  - [04-neural-network-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
-  - [05-neural-network-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
-- [Search Algorithms]()
-  - [01-search-algoritms-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming)
-  - [02-search-algoritms-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
-  - [03-search-algoritms-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
-  - [04-search-algoritms-X](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+  - [02-percepetron-bias.ipynb](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/02-percepetron-bias.ipynb)
+  - [03-percepetron-training.ipynb](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/03-percepetron-training.ipynb)
+  - [04-percepetron-scikit-learning](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/04-percepetron-scikit-learning)
+  - [05-percepetron-assessment.ipynb](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/05-percepetron-assessment.ipynb)
+- [Neural Network]
+  - [01-neural-network](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+  - [02-neural-network](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+  - [04-neural-network](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+  - [05-neural-network](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+- [Search Algorithms]
+  - [01-search-algoritms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming)
+  - [02-search-algoritms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+  - [03-search-algoritms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+  - [04-search-algoritms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+ - [HPC Simulations]
+  - [01-hpc-simulations](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming)
+  - [02-hpc-simulations](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+  - [03-hpc-simulations](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+  - [04-hpc-simulations](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/) 
 ---
 
 ## Known Issues
