@@ -31,8 +31,8 @@ The AI-sample repository is organized by high-level categories.
 - [Neural Network]
   - [01-neural-network](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
   - [02-neural-network](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+  - [03-neural-network](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
   - [04-neural-network](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
-  - [05-neural-network](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
 - [Search Algorithms]
   - [01-search-algoritms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming)
   - [02-search-algoritms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
