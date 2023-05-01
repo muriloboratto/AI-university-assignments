@@ -38,7 +38,7 @@ The AI-sample repository is organized by high-level categories.
   - [02-search-algoritms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
   - [03-search-algoritms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
   - [04-search-algoritms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
- - [HPC Simulations]
+- [HPC Simulations]
   - [01-hpc-simulations](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming)
   - [02-hpc-simulations](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
   - [03-hpc-simulations](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
