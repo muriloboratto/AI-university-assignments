@@ -51,7 +51,6 @@ The AI-sample repository is organized by high-level categories.
 
 Code samples are licensed under the MIT license. See [License.txt](https://github.com/oneapi-src/oneAPI-samples/blob/master/License.txt) for details.
 
-
 ---
 
 [Murilo Boratto](http://lattes.cnpq.br/9222855062709254) <br/>
