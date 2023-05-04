@@ -1,4 +1,4 @@
-# Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks
+#Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
@@ -7,11 +7,11 @@
 */.ipynb_checkpoints/*
 */.DS_Store/*
 
-# IPython
+#IPython
 profile_default/
 ipython_config.py
 
-# Remove previous ipynb_checkpoints
+#Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks

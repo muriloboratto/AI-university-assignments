@@ -17,7 +17,6 @@ The best oneAPI sample to start with depends on what you are trying to learn or 
 
 >**Note**: The README.md included with each sample provides build instructions for all supported operating system. For samples run in Jupyter Notebooks, you might need to install or configure additional frameworks or package managers if you do not already have them on your system.
 
-
 ## Repository Structure
 
 The AI-sample repository is organized by high-level categories.
