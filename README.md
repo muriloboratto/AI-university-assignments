@@ -1,6 +1,6 @@
 # AI university assignments and workshops utilizing Intel oneAPI <br/>
 
-This repository contains the material corresponding to the webinar/Hands-on: _AI university assignments and workshops utilizing Intel oneAPI_ organized by HPC/CIMATEC. The objectives are:
+This repository contains the material corresponding to the webinar/Hands-on: _AI university assignments and workshops utilizing Intel Packages_ organized by HPC/CIMATEC. The objectives are:
 
 By the end of the assignments and workshops, students become aware of the breadth of the Intel AI portfolio and practical experience of the benefits of using Intel AI software and hardware co-optimized solutions. By default, students consider Intel's AI portfolio for future academic and professional AI projects. The material available in \*.ipynb (Jupyter NoteBook) format. There are some notebooks in this repository divided by topics.
 
