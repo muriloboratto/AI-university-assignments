@@ -22,11 +22,11 @@ The best oneAPI sample to start with depends on what you are trying to learn or 
 The AI-sample repository is organized by high-level categories.
 
 - [Percetron]
-  - [01-percepetron-python.ipynb](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/01-percepetron-python.ipynb)
-  - [02-percepetron-bias.ipynb](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/02-percepetron-bias.ipynb)
-  - [03-percepetron-training.ipynb](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/03-percepetron-training.ipynb)
-  - [04-percepetron-scikit-learning](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/04-percepetron-scikit-learning)
-  - [05-percepetron-assessment.ipynb](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/05-percepetron-assessment.ipynb)
+  - [01-percepetron-python.ipynb](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/1-Perceptron/01-percepetron-python.ipynb)
+  - [02-percepetron-bias.ipynb](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/1-Perceptron/02-percepetron-training.ipynb)
+  - [03-percepetron-training.ipynb](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/1-Perceptron/03-percepetron-bias.ipynb)
+  - [04-percepetron-scikit-learning](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/1-Perceptron/04-percepetron-scikit-learning.ipynb)
+  - [05-percepetron-assessment.ipynb](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/1-Perceptron/05-percepetron-assessment.ipynb)
 - [Neural Network]
   - [01-multilayer-perceptron-introduction.ipynb](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
   - [02-multilayer-perceptron-classification.ipynb](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
