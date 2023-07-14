@@ -1,4 +1,4 @@
-# AI university assignments and workshops utilizing Intel oneAPI <br/>
+# AI university assignments and workshops utilizing Intel Packages_ <br/>
 
 This repository contains the material corresponding to the webinar/Hands-on: _AI university assignments and workshops utilizing Intel Packages_ organized by HPC/CIMATEC. The objectives are:
 
@@ -12,8 +12,8 @@ The best oneAPI sample to start with depends on what you are trying to learn or 
 |:---                           |:---
 | The basics concepts of using Perceptron Neural Network using Intel® Python  | Node, topology with augmented vectors, training algorithm, and Convergence theorem. Hands-on using Intel Python* and Scikit learn extensions.
 | The basics concepts of using Neural Network | Multilayer Perceptron network architecture. The Backpropagation algorithm. Hands-on using Intel Python* and PyTorch*.
-| Search Algorithms    | Genetic Algorithms, Bayesian classification, Ant Colony Optimization algorithm Optimization exercises using Intel SigOpt.
-| HPC, and  Simulations | Performance Metrics for validating the developed application.
+| Search Algorithms    | Genetic Algorithms, Bayesian classification, Ant Colony Optimization algorithm Optimization exercises using Intel SigOpt*.
+| HPC, and  Simulations | Performance Metrics for validating the developed application using the Intel Packages.
 
 >**Note**: The README.md included with each sample provides build instructions for all supported operating system. For samples run in Jupyter Notebooks, you might need to install or configure additional frameworks or package managers if you do not already have them on your system.
 
@@ -33,7 +33,7 @@ The AI-sample repository is organized by high-level categories.
   - [03-multilayer-perceptron-regression.ipynb](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
   - [04-multilayer-assessment.ipynb](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
 - [Search Algorithms]
-  - [01-search-algoritms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming)
+  - [01-search-algoritms](https://github.com/muriloboratto)
   - [02-search-algoritms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
   - [03-search-algoritms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
   - [04-search-algoritms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
