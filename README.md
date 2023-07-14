@@ -28,10 +28,11 @@ The AI-sample repository is organized by high-level categories.
   - [04-percepetron-scikit-learning](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/04-percepetron-scikit-learning)
   - [05-percepetron-assessment.ipynb](https://github.com/muriloboratto/AI-intelOneAPI/blob/master/05-percepetron-assessment.ipynb)
 - [Neural Network]
-  - [01-multilayer-perceptron-introduction.ipynb](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
-  - [02-multilayer-perceptron-classification.ipynb](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
-  - [03-multilayer-perceptron-regression.ipynb](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
-  - [04-multilayer-assessment.ipynb](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+  - [01-multilayer-perceptron-introduction.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/01-multilayer-perceptron-introduction.ipynb)
+  - [02-multilayer-perceptron-classification.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/02-multilayer-perceptron-classification.ipynb)
+  - [03-multilayer-perceptron-regression.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/03-multilayer-perceptron-regression.ipynb)
+  - [04-multilayer-perceptron-fitting.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/04-multilayer-perceptron-fitting.ipynb)
+  - [05-multilayer-perceptron-classification-regression-assessment.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/05-multilayer-perceptron-classification-regression-assessment.ipynb)
 - [Search Algorithms]
   - [01-search-algoritms](https://github.com/muriloboratto)
   - [02-search-algoritms](https://github.com/muriloboratto)
