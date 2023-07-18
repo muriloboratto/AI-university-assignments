@@ -18,8 +18,8 @@ The best oneAPI sample to start with depends on what you are trying to learn or 
 
 | If you want to learn about... | Start with...
 |:---                           |:---
-| The basics concepts of using Perceptron Neural Network using Intel® Python  | Node, topology with augmented vectors, training algorithm, and Convergence theorem. Hands-on using Intel Python* and Scikit learn extensions.
-| The basics concepts of using Neural Network | Multilayer Perceptron network architecture. The Backpropagation algorithm. Hands-on using Intel Python* and PyTorch*.
+| The basics concepts of using Perceptron Neural Network using Intel® Python  | Node, topology with augmented vectors, training algorithm, and Convergence theorem. Hands-on using Intel Python and Scikit learn extensions.
+| The basics concepts of using Neural Network | Multilayer Perceptron network architecture. The Backpropagation algorithm. Hands-on using Intel Python and PyTorch.
 | Search Algorithms    | Genetic Algorithms, Bayesian classification, Ant Colony Optimization algorithm, exercises using Intel SigOpt.
 | HPC, and  Simulations | Performance Metrics for validating the developed application.
 
