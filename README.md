@@ -20,7 +20,7 @@ The best oneAPI sample to start with depends on what you are trying to learn or 
 |:---                           |:---
 | The basics concepts of using Perceptron Neural Network using Intel® Python  | Node, topology with augmented vectors, training algorithm, and Convergence theorem. Hands-on using Intel Python* and Scikit learn extensions.
 | The basics concepts of using Neural Network | Multilayer Perceptron network architecture. The Backpropagation algorithm. Hands-on using Intel Python* and PyTorch*.
-| Search Algorithms    | Genetic Algorithms, Bayesian classification, Ant Colony Optimization algorithm Optimization exercises using Intel SigOpt.
+| Search Algorithms    | Genetic Algorithms, Bayesian classification, Ant Colony Optimization algorithm, exercises using Intel SigOpt.
 | HPC, and  Simulations | Performance Metrics for validating the developed application.
 
 >**Note**: The README.md included with each sample provides build instructions for all supported operating system. For samples run in Jupyter Notebooks, you might need to install or configure additional frameworks or package managers if you do not already have them on your system.
@@ -34,27 +34,17 @@ For installing dependencies more quickly, you can run the following command at t
 
 The project dependencies are described in ```./dependencies/requirements.txt``` file within the repository. In summary, heres what you're gonna need in order to run the project:
 
-- ```python3```.
-- ```jupyter```.
-- ```scikit-learn 1.2.2```. 
-- ```torch 2.0.0```.
-- ```numpy 1.23.5```.
-- ```pandas 2.0.2```.
-- ```matplotlib 3.7.1```.
-- ```pydot 1.4.2```.
-- ```graphviz 0.20.1```.
-- ```keras 2.12.0```.
+- ```python3```
+- ```jupyter```
+- ```scikit-learn 1.2.2``` 
+- ```torch 2.0.0```
+- ```numpy 1.23.5```
+- ```pandas 2.0.2```
+- ```matplotlib 3.7.1```
+- ```pydot 1.4.2```
+- ```graphviz 0.20.1```
+- ```keras 2.12.0```
 
-### How to run samples:
-
-First, clone this repository. After that, simply execute the sample wanted by entering its corresponding directory and executing the following command:
-
-    jupyter notebook <sample_name>
-
-**[ EXAMPLE ]** To execute ```01-percepetron-python.ipynb``` run these commands:
-    
-    cd ./1-Perceptron
-    jupyter notebook 01-percepetron-python.ipynb
   
 ## Repository Structure:
 
@@ -72,15 +62,15 @@ The AI-sample repository is organized by high-level categories.
   - [03-multilayer-perceptron-regression.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/03-multilayer-perceptron-regression.ipynb)
   - [04-multilayer-assessment.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/04-multilayer-perceptron-fitting.ipynb)
 - [Search Algorithms]
-  - [01-search-algoritms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming)
-  - [02-search-algoritms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
-  - [03-search-algoritms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
-  - [04-search-algoritms](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
+  - [01-search-algoritms](https://github.com/muriloboratto/)
+  - [02-search-algoritms](https://github.com/muriloboratto/)
+  - [03-search-algoritms](https://github.com/muriloboratto/)
+  - [04-search-algoritms](https://github.com/muriloboratto/)
 - [HPC Simulations]
-  - [01-hpc-simulations](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming)
-  - [02-hpc-simulations](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
-  - [03-hpc-simulations](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/)
-  - [04-hpc-simulations](https://github.com/oneapi-src/oneAPI-samples/tree/master/DirectProgramming/) 
+  - [01-hpc-simulations](https://github.com/muriloboratto/)
+  - [02-hpc-simulations](https://github.com/muriloboratto/)
+  - [03-hpc-simulations](https://github.com/muriloboratto/)
+  - [04-hpc-simulations](https://github.com/muriloboratto/) 
 ---
 
 ## Known Issues:
