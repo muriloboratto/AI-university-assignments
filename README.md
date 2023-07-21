@@ -23,7 +23,7 @@ The best oneAPI sample to start with depends on what you are trying to learn or 
 | Search Algorithms    | Genetic Algorithms, Bayesian classification, Ant Colony Optimization algorithm, exercises using Intel SigOpt.
 | HPC, and  Simulations | Performance Metrics for validating the developed application.
 
->**Note**: The README.md included with each sample provides build instructions for all supported operating system. For samples run in Jupyter Notebooks, you might need to install or configure additional frameworks or package managers if you do not already have them on your system.
+>**Note**: The `README.md` included with each sample provides build instructions for all supported operating system. For samples run in Jupyter Notebooks, you might need to install or configure additional frameworks or package managers if you do not already have them on your system.
 
 ### Installing dependencies:
 
