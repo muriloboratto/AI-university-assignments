@@ -1,4 +1,4 @@
-<h1 align="center"> AI university assignments and workshops utilizing Intel oneAPI </h1>
+<h1 align="center"> AI university assignments and workshops utilizing Intel Packages </h1>
 
 <div align="center">
 	<a href="link_for_webite">
