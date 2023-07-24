@@ -60,7 +60,8 @@ The AI-sample repository is organized by high-level categories.
   - [01-multilayer-perceptron-introduction.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/01-multilayer-perceptron-introduction.ipynb)
   - [02-multilayer-perceptron-classification.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/02-multilayer-perceptron-classification.ipynb)
   - [03-multilayer-perceptron-regression.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/03-multilayer-perceptron-regression.ipynb)
-  - [04-multilayer-assessment.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/04-multilayer-perceptron-fitting.ipynb)
+  - [04-multilayer-perceptron-fitting.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/04-multilayer-perceptron-fitting.ipynb)
+  - [05-multilayer-assessment.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/05-multilayer-perceptron-classification-regression-assessment.ipynb)
 - [Search Algorithms]
   - [01-search-algoritms](https://github.com/muriloboratto/)
   - [02-search-algoritms](https://github.com/muriloboratto/)
@@ -83,7 +84,16 @@ Code samples are licensed under the MIT license. See [License.txt](https://githu
 
 [1] Rosenblatt, F. (1958). **The perceptron: A probabilistic model for information storage and organization in the brain. Psychological Review**, 65(6), 386-408.
 
-[2] Russell, S., & Norvig, P. (2016). **Artificial intelligence: A modern approach**. Pearson.
+[2] LUNGER, G. F. (2009). **Artificial Intelligence: Structures and Strategies for Complex Problem Solving**. Addison-Wesley, 2009.
+
+[3] GOODFELLOW, I., BENGIO, Y., COURVILLE, A. (2016).  **Deep Learning**. MIT Press. Available in http://www.deeplearningbook.org.
+
+[4] RUSSELL, S.,  NORVIG, P. (2010)  **Artificial Intelligence: A Modern Approach**. Prentice Hall.
+
+[5] SUTTON, R. S.,  BARTO, A. G. (2018).  **Reinforcement Learning: An Introduction**.  MIT Press.
+
+[6] CRAWFORD, K. (2021).  **Atlas of AI**. Yale University Press: New Haven and London.
+
 
 ---
 
