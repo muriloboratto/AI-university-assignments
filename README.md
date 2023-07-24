@@ -32,7 +32,7 @@ For installing dependencies more quickly, you can run the following command at t
     sudo apt update && sudo apt install python3 python3-pip
     pip3 install -r ./dependencies/requirements.txt
 
-The project dependencies are described in ```./dependencies/requirements.txt``` file within the repository. In summary, heres what you're gonna need in order to run the project:
+The project dependencies are described in ```./Installing-Dependencies/requirements.txt``` file within the repository. In summary, heres what you're gonna need in order to run the project:
 
 - ```python3```
 - ```jupyter```
