@@ -1,14 +1,14 @@
-<h1 align="center"> AI university assignments and workshops utilizing Intel Packages </h1>
+<h1 align="center"> AI university assignments and workshops using Intel Packages </h1>
 
 <div align="center">
-	<a href="link_for_webite">
-	<img height = "250em" src = "https://github.com/FernandoSchett/github_repository_template/assets/80331486/eca73869-032c-4908-92f3-6b1fc75ebe1b" />
-    </a>
+<a href="link_for_webite">
+<img height = "250em" src = "1-Perceptron/images/logo-intel.jpg">
+</a>
 </div>
 
 ## About:
 
-This repository contains the material corresponding to the webinar/Hands-on: _AI university assignments and workshops utilizing Intel Packages_ organized by HPC/CIMATEC. The objectives are:
+This repository contains the material corresponding to the webinar/Hands-on: _AI university assignments and workshops using Intel Packages_ organized by HPC/CIMATEC. The objectives are:
 
 By the end of the assignments and workshops, students become aware of the breadth of the Intel AI portfolio and experience the benefits of using Intel AI software and hardware co-optimized solutions. By default, students consider Intel's AI portfolio for future academic and professional AI projects. The material is available in \*.ipynb (Jupyter NoteBook) format. There are some notebooks in this repository divided by topics.
 
@@ -20,7 +20,7 @@ The best oneAPI sample to start with depends on what you are trying to learn or 
 |:---                           |:---
 | The basics concepts of using a perceptron neural network using Intel® Python  | Node, topology with augmented vectors, training algorithm, and convergence theorem. Hands-on using Intel Python and Intel Extension for Scikit-learn.
 | The basics concepts of using a neural network | Multilayer perceptron network architecture. The backpropagation algorithm. Hands-on using Intel Python and PyTorch.
-| Search algorithms    | Genetic algorithms, Bayesian classification, ant colony optimization algorithm, exercises using Intel SigOpt.
+| Bio-inspired algorithms    | Genetic algorithms, particle swarm optimization, ant colony optimization algorithm, exercises using Intel SigOpt.
 | HPC and  simulations | Performance metrics for validating the developed application.
 
 >**Note**: The `README.md` included with each sample provides build instructions for all supported operating system. For samples run in Jupyter Notebooks, you might need to install or configure additional frameworks or package managers if you do not already have them on your system.
@@ -62,11 +62,12 @@ The AI-sample repository is organized by high-level categories.
   - [03-multilayer-perceptron-regression.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/03-multilayer-perceptron-regression.ipynb)
   - [04-multilayer-perceptron-fitting.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/04-multilayer-perceptron-fitting.ipynb)
   - [05-multilayer-assessment.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/05-multilayer-perceptron-classification-regression-assessment.ipynb)
-- [Search Algorithms]
-  - [01-search-algoritms](https://github.com/muriloboratto/)
-  - [02-search-algoritms](https://github.com/muriloboratto/)
-  - [03-search-algoritms](https://github.com/muriloboratto/)
-  - [04-search-algoritms](https://github.com/muriloboratto/)
+- [Bio-inspired]
+  - [01-bio-inspired-introduction.ipynb](https://github.com/muriloboratto/)
+  - [02-bio-inspired-genetic-algorithm.ipynb](https://github.com/muriloboratto/)
+  - [03-bio-inspired-ant-colony-algorithm.ipynb](https://github.com/muriloboratto/)
+  - [04-bio-inspired-particle-swarm-optimization.ipynb](https://github.com/muriloboratto/)
+  - [05-bio-inspired-intelSigOpt.ipynb](https://github.com/muriloboratto/)
 - [HPC Simulations]
   - [01-hpc-simulations](https://github.com/muriloboratto/)
   - [02-hpc-simulations](https://github.com/muriloboratto/)
