@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="link_for_webite">
-<img height = "250em" src = "1-Perceptron/images/logo-intel.jpg">
+<img height = "250em" src = "1-Artificial-Neurons/images/logo-intel.jpg">
 </a>
 </div>
 
@@ -18,8 +18,8 @@ The best oneAPI sample to start with depends on what you are trying to learn or 
 
 | If you want to learn about... | Start with...
 |:---                           |:---
-| The basics concepts of using a perceptron neural network using Intel® Python  | Node, topology with augmented vectors, training algorithm, and convergence theorem. Hands-on using Intel Python and Intel Extension for Scikit-learn.
-| The basics concepts of using a neural network | Multilayer perceptron network architecture. The backpropagation algorithm. Hands-on using Intel Python and PyTorch.
+| The basics concepts of using a artificial neurons using Intel® Python  | Node, topology with augmented vectors, training algorithm, and convergence theorem. Hands-on using Intel Python and Intel Extension for Scikit-learn.
+| The basics concepts of using a neural network | Multilayer artificial neurons network architecture. The backpropagation algorithm. Hands-on using Intel Python and PyTorch.
 | Bio-inspired algorithms    | Genetic algorithms, particle swarm optimization, ant colony optimization algorithm, exercises using Intel SigOpt.
 | HPC and  simulations | Performance metrics for validating the developed application.
 
@@ -50,18 +50,18 @@ The project dependencies are described in ```./Installing-Dependencies/requireme
 
 The AI-sample repository is organized by high-level categories.
 
-- [Perceptron]
-  - [01-perceptron-python.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/1-Perceptron/01-perceptron-python.ipynb)
-  - [02-perceptron-bias.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/1-Perceptron/02-perceptron-training.ipynb)
-  - [03-perceptron-training.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/1-Perceptron/03-percpetron-bias.ipynb)
-  - [04-perceptron-scikit-learning](https://github.com/muriloboratto/AI-university-assignments/blob/master/1-Perceptron/04-perceptron-scikit-learning.ipynb)
-  - [05-perceptron-assessment.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/1-Perceptron/05-perceptron-assessment.ipynb)
+- [Artificial Neurons]
+  - [01-artificial-neurons-python.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/1-artificial-neurons/01-artificial-neurons-python.ipynb)
+  - [02-artificial-neurons-bias.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/1-artificial-neurons/02-artificial-neurons-training.ipynb)
+  - [03-artificial-neurons-training.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/1-artificial-neurons/03-percpetron-bias.ipynb)
+  - [04-artificial-neurons-scikit-learning](https://github.com/muriloboratto/AI-university-assignments/blob/master/1-artificial-neurons/04-artificial-neurons-scikit-learning.ipynb)
+  - [05-artificial-neurons-assessment.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/1-artificial-neurons/05-artificial-neurons-assessment.ipynb)
 - [Neural Network]
-  - [01-multilayer-perceptron-introduction.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/01-multilayer-perceptron-introduction.ipynb)
-  - [02-multilayer-perceptron-classification.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/02-multilayer-perceptron-classification.ipynb)
-  - [03-multilayer-perceptron-regression.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/03-multilayer-perceptron-regression.ipynb)
-  - [04-multilayer-perceptron-fitting.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/04-multilayer-perceptron-fitting.ipynb)
-  - [05-multilayer-assessment.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/05-multilayer-perceptron-classification-regression-assessment.ipynb)
+  - [01-multilayer-artificial-neurons-introduction.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/01-multilayer-artificial-neurons-introduction.ipynb)
+  - [02-multilayer-artificial-neurons-classification.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/02-multilayer-artificial-neurons-classification.ipynb)
+  - [03-multilayer-artificial-neurons-regression.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/03-multilayer-artificial-neurons-regression.ipynb)
+  - [04-multilayer-artificial-neurons-fitting.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/04-multilayer-artificial-neurons-fitting.ipynb)
+  - [05-multilayer-assessment.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/2-Neural-Network/05-multilayer-artificial-neurons-classification-regression-assessment.ipynb)
 - [Bio-inspired]
   - [01-bio-inspired-introduction.ipynb](https://github.com/muriloboratto/)
   - [02-bio-inspired-genetic-algorithm.ipynb](https://github.com/muriloboratto/)
