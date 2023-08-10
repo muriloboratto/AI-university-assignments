@@ -1,9 +1,7 @@
 <h1 align="center"> AI university assignments and workshops using Intel Packages </h1>
 
 <div align="center">
-<a href="link_for_webite">
-<img height = "250em" src = "1-Artificial-Neurons/images/logo-intel.jpg">
-</a>
+  <img height = "250em" src = "1-Artificial-Neurons/images/logo-intel.jpg">
 </div>
 
 ## About:
@@ -36,8 +34,9 @@ The project dependencies are described in ```./Installing-Dependencies/requireme
 
 - ```python3```
 - ```jupyter```
-- ```scikit-learn 1.2.2``` 
+- ```scikit-learn 1.2.2```
 - ```torch 2.0.0```
+- ```torchvision 0.15.2```
 - ```numpy 1.23.5```
 - ```pandas 2.0.2```
 - ```matplotlib 3.7.1```
@@ -45,7 +44,6 @@ The project dependencies are described in ```./Installing-Dependencies/requireme
 - ```graphviz 0.20.1```
 - ```keras 2.12.0```
 
-  
 ## Repository structure:
 
 The AI-sample repository is organized by high-level categories.
