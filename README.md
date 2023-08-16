@@ -66,6 +66,7 @@ The AI-sample repository is organized by high-level categories.
   - [03-bio-inspired-ant-colony-algorithm.ipynb](https://github.com/muriloboratto/)
   - [04-bio-inspired-particle-swarm-optimization.ipynb](https://github.com/muriloboratto/)
   - [05-bio-inspired-intelSigOpt.ipynb](https://github.com/muriloboratto/)
+  - [06-bio-inspired-assessment.ipynb](https://github.com/muriloboratto/)
 - [HPC Simulations]
   - [01-hpc-simulations](https://github.com/muriloboratto/)
   - [02-hpc-simulations](https://github.com/muriloboratto/)
