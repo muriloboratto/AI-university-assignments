@@ -77,11 +77,25 @@ The AI-sample repository is organized by high-level categories.
   - [04-hpc-simulations-assessment](https://github.com/muriloboratto/AI-university-assignments/blob/master/4-HPC-Simulations/04-hpc-simulations-assessment.ipynb) 
 ---
 
-## Known Issues:
 
-### Licenses:
+## `IX SIINTEC 2023`
 
-Code samples are licensed under the MIT license. See [License.txt](https://github.com/oneapi-src/oneAPI-samples/blob/master/License.txt) for details.
+### `Google COLAB`
+
+- `[Artificial Neurons]`
+  - [artificial-neurons-python.ipynb](https://colab.research.google.com/drive/14gwbsPGEP7Vk2KykW19aOpwuEnjbR_FM)
+
+- `[Neural Network]`
+  - [multilayer-artificial-neurons.ipynb]()
+
+- `[Bio-inspired]`
+  - [bio-inspired-introduction.ipynb](https://colab.research.google.com/drive/10Z8QZN_mXRy2Cjtbcc1ui3x0NtTBOS8f?usp=sharing)
+
+- `[HPC Simulations]`
+  - [hpc-simulations.ipynb]()
+
+
+---
 
 ## References:
 
@@ -101,6 +115,6 @@ Code samples are licensed under the MIT license. See [License.txt](https://githu
 ---
 
 [Murilo Boratto](http://lattes.cnpq.br/9222855062709254) <br/>
-Researcher at the Supercomputing Center for Industrial Innovation SENAI-CIMATEC [CS2I](https://www.senaicimatec.com.br/) <br/>
+Researcher at the Supercomputing Center for Industrial Innovation SENAI-CIMATEC [(CV Lattes)](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4778953J6) <br/>
 
 
