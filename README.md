@@ -86,13 +86,13 @@ The AI-sample repository is organized by high-level categories.
   - [artificial-neurons-python.ipynb](https://colab.research.google.com/drive/14gwbsPGEP7Vk2KykW19aOpwuEnjbR_FM)
 
 - `[Neural Network]`
-  - [multilayer-artificial-neurons.ipynb]()
+  - [multilayer-artificial-neurons.ipynb](https://colab.research.google.com/drive/1oWDTY6R8rj-HlJl2Tfr0T4SvU1EiiVUV?usp=sharing)
 
 - `[Bio-inspired]`
   - [bio-inspired-introduction.ipynb](https://colab.research.google.com/drive/10Z8QZN_mXRy2Cjtbcc1ui3x0NtTBOS8f?usp=sharing)
 
 - `[HPC Simulations]`
-  - [hpc-simulations.ipynb]()
+  - [hpc-simulations.ipynb](https://colab.research.google.com/drive/1JNNQAjqsW_k6V2gVksC4NaQJUNlvRfee)
 
 
 ---
