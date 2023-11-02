@@ -77,26 +77,6 @@ The AI-sample repository is organized by high-level categories.
   - [04-hpc-simulations-assessment](https://github.com/muriloboratto/AI-university-assignments/blob/master/4-HPC-Simulations/04-hpc-simulations-assessment.ipynb) 
 ---
 
-
-## `IX SIINTEC 2023`
-
-### `Google COLAB`
-
-- `[Artificial Neurons]`
-  - [artificial-neurons-python.ipynb](https://colab.research.google.com/drive/14gwbsPGEP7Vk2KykW19aOpwuEnjbR_FM)
-
-- `[Neural Network]`
-  - [multilayer-artificial-neurons.ipynb](https://colab.research.google.com/drive/1oWDTY6R8rj-HlJl2Tfr0T4SvU1EiiVUV?usp=sharing)
-
-- `[Bio-inspired]`
-  - [bio-inspired-introduction.ipynb](https://colab.research.google.com/drive/10Z8QZN_mXRy2Cjtbcc1ui3x0NtTBOS8f?usp=sharing)
-
-- `[HPC Simulations]`
-  - [hpc-simulations.ipynb](https://colab.research.google.com/drive/1JNNQAjqsW_k6V2gVksC4NaQJUNlvRfee)
-
-
----
-
 ## References:
 
 [1] Rosenblatt, F. (1958). **The perceptron: A probabilistic model for information storage and organization in the brain. Psychological Review**, 65(6), 386-408.
