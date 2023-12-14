@@ -71,10 +71,10 @@ The AI-sample repository is organized by high-level categories.
   - [05-bio-inspired-intelSigOpt.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/3-Bio-Inspired/05-bio-inspired-intelSigOpt.ipynb)
   - [06-bio-inspired-assessment.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/3-Bio-Inspired/06-bio-inspired-assessment.ipynb)
 - [HPC Simulations]
-  - [01-hpc-simulations-introduction](https://github.com/muriloboratto/AI-university-assignments/blob/master/4-HPC-Simulations/01-hpc-simulations-introduction.ipynb)
-  - [02-hpc-simulations-tensorflow](https://github.com/muriloboratto/AI-university-assignments/blob/master/4-HPC-Simulations/02-hpc-simulations-tensorflow.ipynb)
-  - [03-hpc-simulations-pytorch](https://github.com/muriloboratto/AI-university-assignments/blob/master/4-HPC-Simulations/03-hpc-simulations-pytorch.ipynb)
-  - [04-hpc-simulations-assessment](https://github.com/muriloboratto/AI-university-assignments/blob/master/4-HPC-Simulations/04-hpc-simulations-assessment.ipynb) 
+  - [01-hpc-simulations-introduction.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/4-HPC-Simulations/01-hpc-simulations-introduction.ipynb)
+  - [02-hpc-simulations-tensorflow.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/4-HPC-Simulations/02-hpc-simulations-tensorflow.ipynb)
+  - [03-hpc-simulations-pytorch.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/4-HPC-Simulations/03-hpc-simulations-pytorch.ipynb)
+  - [04-hpc-simulations-assessment.ipynb](https://github.com/muriloboratto/AI-university-assignments/blob/master/4-HPC-Simulations/04-hpc-simulations-assessment.ipynb) 
 ---
 
 ## References:
